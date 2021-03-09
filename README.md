@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome Contributors!
 Thanks for checking us out!
 
@@ -224,3 +225,9 @@ Thanks to Rachel (from PDX Diaperbank) for all of her insight, support, and assi
 ## License
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frubyforgood%2Fdiaper.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frubyforgood%2Fdiaper?ref=badge_large)
 
+=======
+# Oppsie. We've changed the primary branch to `main`
+## Use `main` instead of `master`
+
+![](https://media.giphy.com/media/SgwPtMD47PV04/source.gif)
+>>>>>>> 156087f7706f305740d2d277248d99a6e1d3cb51
