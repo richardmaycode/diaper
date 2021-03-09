@@ -13,8 +13,6 @@ development:
     timeout: 5000
   partners:
     <<: *default
-    username: postgres
-    password: password
     database: partner_dev
     migrations_paths: db/partners_migrate
     timeout: 5000
@@ -26,8 +24,6 @@ test:
     timeout: 5000
   partners:
     <<: *default
-    username: postgres
-    password: password
     database: partner_test
     migrations_paths: db/partners_migrate
     timeout: 5000
